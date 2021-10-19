@@ -109,7 +109,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏BADBOY BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏Ammukutty BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
