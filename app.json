@@ -56,7 +56,7 @@
             "required": true,
             "value": "^[.!;]"
         },
-        "Z_BADBOY_AI": {
+        "Z_Ammukutty_AI": {
             "description": "turn on chat back auto reply badboy (use true to on and fale to off)",
             "required": true,
             "value": "true"
@@ -166,7 +166,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
+            "value": "i am alive  \n\n ```coded by ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
