@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 farhan-dqz.
-re codded by afnanplk
+re codded by ᴄʏʙᴇʀ㊌ᴊᴀᴄᴋ
 PINKY V2
 */
 const fs = require('fs')
@@ -52,7 +52,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
     if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918593079460@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917994922550@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/sena.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['acho','Velluveli','udayp','tutu','Thug','suhurth','Single boy','Settak','sena','Sed','sed life','sed bgm','Sarasu','Role','Reyali','Poyalo','power varate','Power an','Pottikum','poli','Podamyr','pm vada','Pabam','onu poda chekka','oh','O','number pottikum','no love','nerth','Nenak nan und','ne power an','ne etha','nanban fake','nan und','MPL','Monuse','money hist bgm','mone','Mandan','Machane','lshta','Love','Love you','Love me','line','line undo','Ketto','karale','Kane','kalikuno','kalikkan nekkale','Kalikkale','joker','Inna pedicho','i love u','I love you baby','@918593079460','aliya','ano','arakkal tharavad','arakkal','Aran ariyo','ariyo','arulla','ayn','Ayo','AyoAyo','Badboy','Bgm ettutharam','Bgm ille','BGM poratte','Bgm','Da','Hi','hlo','kannapi','kollamo','kollum nan','myr','ok','polichille','poda','ramana','sad','sorry','tharilla','Boss ethi','Bosse','chalakallada','Chank uyr','Chank','chankan','Chettan oru bgm ettu tharate','coming','Don','Dream','gays','ennalum','Entry','ennit','Group','Groupel']
@@ -118,10 +118,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918593079460@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917994922550@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Badboy.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '917510308513@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917994922550@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Badboy.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
@@ -153,7 +153,7 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072790587@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917994922550@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/trance.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
@@ -184,7 +184,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '918593079460@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '917994922550@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/Hehe.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['Pinky','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','uff','umma','Vaa','vada','yo']
